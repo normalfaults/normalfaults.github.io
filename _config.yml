@@ -22,7 +22,7 @@ theme: jekyll-theme-slate
 
 url: http://nirmal.io
 
-baseurl: "http://nirmal.io"
+baseurl: ""
 
 permalink: /:year/:month/:title/
 excerpt_separator: <!--more-->
