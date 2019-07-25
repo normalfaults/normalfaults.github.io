@@ -1,5 +1,5 @@
 name: Nirmal Mehta's blog
-
+title: Nirmal's blog
 description: Posts from Nirmal Mehta
 incremental: true
 
@@ -17,15 +17,20 @@ links:
   stackoverflow: 
   youtube: 
   googleplus: 
+github_username: normalfaults
+twitter_username: normalfaults
 
 theme: jekyll-theme-slate
 
-url: http://nirmal.io
+url: "http://nirmal.io"
 
 baseurl: ""
 
 permalink: /:year/:month/:title/
 excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed
 
 exclude:
     - Gemfile
