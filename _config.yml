@@ -1,1 +1,35 @@
+name: Nirmal Mehta's blog
+
+description: Posts from Nirmal Mehta
+incremental: true
+
+links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: normalfaults
+  instagram:
+  linkedin: https://www.linkedin.com/in/nirmalkmehta/
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: normalfaults
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+
 theme: jekyll-theme-slate
+
+url: http://nirmal.io
+
+baseurl: ""
+
+permalink: /:year/:month/:title/
+excerpt_separator: <!--more-->
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
