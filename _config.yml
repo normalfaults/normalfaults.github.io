@@ -14,13 +14,15 @@ links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: normalfaults
-  stackoverflow: 
-  youtube: 
-  googleplus: 
+  stackoverflow:
+  youtube:
+  googleplus:
 github_username: normalfaults
 twitter_username: normalfaults
 
 theme: jekyll-theme-slate
+
+google_analytics: UA-148077309-1
 
 url: "http://nirmal.io"
 
