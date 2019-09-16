@@ -9,7 +9,7 @@ I've been giving a talk about using empathy as a cornerstone or north star for c
 
 GOTO 2018 : A Strong Belief, Loosely Held: Bringing Empathy to IT
 
-<div class="text-center">
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lyza-qtFtus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -20,6 +20,6 @@ GOTO 2018 : A Strong Belief, Loosely Held: Bringing Empathy to IT
 
 DevopsDays Raleigh 2017
 
-<div class="text-center">
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uUjm361Pme8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
