@@ -5,18 +5,19 @@ incremental: true
 
 links:
   dribbble:
-  email: 
+  email:
   facebook:
   flickr:
   github: normalfaults
   instagram:
-  linkedin: https://www.linkedin.com/in/nirmalkmehta/
+  linkedin: nirmalkmehta
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: normalfaults
   stackoverflow:
   youtube:
   googleplus:
+  github: normalfaults
 github_username: normalfaults
 twitter_username: normalfaults
 
