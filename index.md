@@ -7,19 +7,8 @@ I've been giving a talk about using empathy as a cornerstone or north star for c
 
 <!--more-->
 
-GOTO 2018 : A Strong Belief, Loosely Held: Bringing Empathy to IT
-
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lyza-qtFtus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 [Dockercon 2018 SFO](https://dockercon2018.hubs.vidyard.com/watch/v785UAnfRXvkCuas9H53qH)
 
 
 [Dockercon 2017 EU](https://dockercon.docker.com/watch/w1YVVuf2WnMqnhJBjH4t3J)
-
-DevopsDays Raleigh 2017
-
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uUjm361Pme8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
