@@ -10,7 +10,5 @@ I've been giving a talk about using empathy as a cornerstone or north star for c
 
 
 
-[Dockercon 2018 SFO](https://dockercon2018.hubs.vidyard.com/watch/v785UAnfRXvkCuas9H53qH)
 
-
-[Dockercon 2017 EU A Strong Belief, Loosely Held: Bringing Empathy to IT](https://youtu.be/fDHf8desxqM)
+[Dockercon 2017 EU A Strong Belief, Loosely Held: Bringing Empathy to IT](https://youtu.be/fDHf8desxqM?t=4)
